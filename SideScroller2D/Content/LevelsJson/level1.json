@@ -1,0 +1,2624 @@
+[
+    {
+        "name": 0,
+        "tempo": 0.940997,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 1,
+        "tempo": 1.733174,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 2,
+        "tempo": 3.363174,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 3,
+        "tempo": 3.642244,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 4,
+        "tempo": 4.016235,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 5,
+        "tempo": 4.48424,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 6,
+        "tempo": 4.904195,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 7,
+        "tempo": 5.419002,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 8,
+        "tempo": 6.307278,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 9,
+        "tempo": 7.187664,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 10,
+        "tempo": 7.97712,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 11,
+        "tempo": 8.860476,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 12,
+        "tempo": 10.299206,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 13,
+        "tempo": 10.58034,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 14,
+        "tempo": 10.764965,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 15,
+        "tempo": 11.179931,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 16,
+        "tempo": 11.595238,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 17,
+        "tempo": 12.105963,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 18,
+        "tempo": 12.611247,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 19,
+        "tempo": 13.493083,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 20,
+        "tempo": 14.329841,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 21,
+        "tempo": 15.1139,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 22,
+        "tempo": 16.041814,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 23,
+        "tempo": 17.297959,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 24,
+        "tempo": 17.531156,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 25,
+        "tempo": 17.716167,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 26,
+        "tempo": 18.319297,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 27,
+        "tempo": 18.785374,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 28,
+        "tempo": 19.156213,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 29,
+        "tempo": 19.715918,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 30,
+        "tempo": 20.601133,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 31,
+        "tempo": 21.577142,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 32,
+        "tempo": 22.320861,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 33,
+        "tempo": 23.252176,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 34,
+        "tempo": 24.136167,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 35,
+        "tempo": 25.112879,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 36,
+        "tempo": 25.950929,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 37,
+        "tempo": 26.7839,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 38,
+        "tempo": 28.132267,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 39,
+        "tempo": 28.363832,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 40,
+        "tempo": 28.595328,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 41,
+        "tempo": 29.061564,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 42,
+        "tempo": 29.527845,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 43,
+        "tempo": 29.994149,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 44,
+        "tempo": 30.460408,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 45,
+        "tempo": 31.391904,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 46,
+        "tempo": 32.321224,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 47,
+        "tempo": 33.017823,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 48,
+        "tempo": 33.901859,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 49,
+        "tempo": 35.300657,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 50,
+        "tempo": 35.532176,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 51,
+        "tempo": 35.764126,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 52,
+        "tempo": 36.274172,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 53,
+        "tempo": 36.740226,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 54,
+        "tempo": 37.160249,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 55,
+        "tempo": 37.625918,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 56,
+        "tempo": 38.553197,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 57,
+        "tempo": 39.480861,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 58,
+        "tempo": 40.316848,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 59,
+        "tempo": 41.196099,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 60,
+        "tempo": 41.659909,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 61,
+        "tempo": 42.127346,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 62,
+        "tempo": 42.547936,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 63,
+        "tempo": 43.014195,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 64,
+        "tempo": 43.522993,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 65,
+        "tempo": 43.943197,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 66,
+        "tempo": 44.3578,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 67,
+        "tempo": 44.822834,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 68,
+        "tempo": 45.283968,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 69,
+        "tempo": 45.702879,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 70,
+        "tempo": 46.123922,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 71,
+        "tempo": 46.588208,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 72,
+        "tempo": 47.098299,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 73,
+        "tempo": 47.468253,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 74,
+        "tempo": 47.933287,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 75,
+        "tempo": 48.492789,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 76,
+        "tempo": 49.518752,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 77,
+        "tempo": 50.309274,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 78,
+        "tempo": 51.050385,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 79,
+        "tempo": 51.935238,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 80,
+        "tempo": 53.701995,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 81,
+        "tempo": 54.400816,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 82,
+        "tempo": 55.422879,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 83,
+        "tempo": 55.888299,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 84,
+        "tempo": 56.496258,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 85,
+        "tempo": 56.868979,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 86,
+        "tempo": 57.380884,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 87,
+        "tempo": 57.847913,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 88,
+        "tempo": 58.316031,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 89,
+        "tempo": 58.732244,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 90,
+        "tempo": 59.200136,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 91,
+        "tempo": 60.08424,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 92,
+        "tempo": 60.970952,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 93,
+        "tempo": 61.809251,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 94,
+        "tempo": 62.274149,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 95,
+        "tempo": 62.695328,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 96,
+        "tempo": 63.578253,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 97,
+        "tempo": 64.506326,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 98,
+        "tempo": 65.064603,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 99,
+        "tempo": 65.438344,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 100,
+        "tempo": 65.906598,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 101,
+        "tempo": 66.374557,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 102,
+        "tempo": 67.213219,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 103,
+        "tempo": 67.630181,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 104,
+        "tempo": 68.094489,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 105,
+        "tempo": 69.022857,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 106,
+        "tempo": 69.441972,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 107,
+        "tempo": 69.908163,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 108,
+        "tempo": 70.791972,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 109,
+        "tempo": 71.20882,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 110,
+        "tempo": 71.768049,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 111,
+        "tempo": 72.649274,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 112,
+        "tempo": 73.021292,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 113,
+        "tempo": 73.76424,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 114,
+        "tempo": 74.458299,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 115,
+        "tempo": 74.875464,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 116,
+        "tempo": 77.09916,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 117,
+        "tempo": 78.028888,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 118,
+        "tempo": 78.910952,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 119,
+        "tempo": 79.794421,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 120,
+        "tempo": 80.258208,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 121,
+        "tempo": 80.678321,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 122,
+        "tempo": 81.561519,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 123,
+        "tempo": 82.582857,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 124,
+        "tempo": 83.141972,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 125,
+        "tempo": 83.469274,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 126,
+        "tempo": 83.746893,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 127,
+        "tempo": 84.259342,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 128,
+        "tempo": 85.09331,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 129,
+        "tempo": 85.9739,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 130,
+        "tempo": 86.672857,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 131,
+        "tempo": 86.999047,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 132,
+        "tempo": 87.279138,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 133,
+        "tempo": 87.976009,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 134,
+        "tempo": 89.830226,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 135,
+        "tempo": 90.29585,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 136,
+        "tempo": 90.576598,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 137,
+        "tempo": 90.90492,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 138,
+        "tempo": 91.415941,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 139,
+        "tempo": 92.255782,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 140,
+        "tempo": 93.190181,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 141,
+        "tempo": 93.888299,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 142,
+        "tempo": 94.166167,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 143,
+        "tempo": 94.533129,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 144,
+        "tempo": 94.998956,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 145,
+        "tempo": 95.833968,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 146,
+        "tempo": 96.859886,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 147,
+        "tempo": 97.695873,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 148,
+        "tempo": 98.067165,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 149,
+        "tempo": 98.578344,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 150,
+        "tempo": 99.419931,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 151,
+        "tempo": 99.885986,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 152,
+        "tempo": 100.353219,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 153,
+        "tempo": 101.187188,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 154,
+        "tempo": 101.70077,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 155,
+        "tempo": 102.165895,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 156,
+        "tempo": 103.046235,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 157,
+        "tempo": 103.55517,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 158,
+        "tempo": 104.859251,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 159,
+        "tempo": 105.2778,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 160,
+        "tempo": 105.744761,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 161,
+        "tempo": 106.583197,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 162,
+        "tempo": 107.04619,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 163,
+        "tempo": 107.55619,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 164,
+        "tempo": 108.387165,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 165,
+        "tempo": 108.805238,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 166,
+        "tempo": 109.317891,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 167,
+        "tempo": 110.199863,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 168,
+        "tempo": 111.131315,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 169,
+        "tempo": 112.012925,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 170,
+        "tempo": 113.07907,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 171,
+        "tempo": 114.610861,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 172,
+        "tempo": 115.544195,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 173,
+        "tempo": 116.379002,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 174,
+        "tempo": 117.819138,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 175,
+        "tempo": 118.099002,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 176,
+        "tempo": 118.329251,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 177,
+        "tempo": 118.701859,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 178,
+        "tempo": 119.121791,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 179,
+        "tempo": 119.587868,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 180,
+        "tempo": 120.10195,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 181,
+        "tempo": 120.941269,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 182,
+        "tempo": 121.826258,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 183,
+        "tempo": 122.661383,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 184,
+        "tempo": 123.543083,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 185,
+        "tempo": 125.122789,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 186,
+        "tempo": 125.357936,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 187,
+        "tempo": 125.822585,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 188,
+        "tempo": 126.289297,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 189,
+        "tempo": 126.755215,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 190,
+        "tempo": 127.177369,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 191,
+        "tempo": 128.059274,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 192,
+        "tempo": 128.991156,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 193,
+        "tempo": 129.875487,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 194,
+        "tempo": 130.662857,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 195,
+        "tempo": 131.49492,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 196,
+        "tempo": 132.053061,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 197,
+        "tempo": 132.614126,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 198,
+        "tempo": 133.49882,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 199,
+        "tempo": 133.921088,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 200,
+        "tempo": 134.380839,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 201,
+        "tempo": 135.30297,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 202,
+        "tempo": 136.183174,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 203,
+        "tempo": 136.975124,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 204,
+        "tempo": 137.487891,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 205,
+        "tempo": 138.139863,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 206,
+        "tempo": 139.258843,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 207,
+        "tempo": 139.862154,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 208,
+        "tempo": 140.699206,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 209,
+        "tempo": 141.536235,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 210,
+        "tempo": 143.346303,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 211,
+        "tempo": 144.278367,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 212,
+        "tempo": 144.695963,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 213,
+        "tempo": 145.162312,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 214,
+        "tempo": 145.583242,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 215,
+        "tempo": 146.144897,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 216,
+        "tempo": 146.51526,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 217,
+        "tempo": 146.930204,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 218,
+        "tempo": 147.768299,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 219,
+        "tempo": 148.278843,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 220,
+        "tempo": 148.743832,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 221,
+        "tempo": 149.62839,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 222,
+        "tempo": 150.515011,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 223,
+        "tempo": 151.310997,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 224,
+        "tempo": 151.685963,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 225,
+        "tempo": 152.195034,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 226,
+        "tempo": 153.165918,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 227,
+        "tempo": 154.09517,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 228,
+        "tempo": 154.515895,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 229,
+        "tempo": 154.981156,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 230,
+        "tempo": 155.397324,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 231,
+        "tempo": 155.864013,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 232,
+        "tempo": 156.790226,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 233,
+        "tempo": 157.162154,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 234,
+        "tempo": 157.627188,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 235,
+        "tempo": 158.510362,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 236,
+        "tempo": 158.927936,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 237,
+        "tempo": 159.440204,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 238,
+        "tempo": 160.325056,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 239,
+        "tempo": 160.788888,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 240,
+        "tempo": 161.343174,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 241,
+        "tempo": 162.111111,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 242,
+        "tempo": 162.529841,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 243,
+        "tempo": 162.995215,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 244,
+        "tempo": 163.923764,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 245,
+        "tempo": 164.296916,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 246,
+        "tempo": 164.80882,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 247,
+        "tempo": 165.740068,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 248,
+        "tempo": 166.579795,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 249,
+        "tempo": 167.5578,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 250,
+        "tempo": 168.396077,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 251,
+        "tempo": 169.323854,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 252,
+        "tempo": 170.158185,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 253,
+        "tempo": 171.093378,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 254,
+        "tempo": 171.975351,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 255,
+        "tempo": 172.816621,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 256,
+        "tempo": 173.187301,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 257,
+        "tempo": 173.699138,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 258,
+        "tempo": 174.53356,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 259,
+        "tempo": 175.514739,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 260,
+        "tempo": 176.215306,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 261,
+        "tempo": 176.493514,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 262,
+        "tempo": 176.91297,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 263,
+        "tempo": 179.191836,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 264,
+        "tempo": 179.985238,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 265,
+        "tempo": 180.265192,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 266,
+        "tempo": 180.546145,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 267,
+        "tempo": 180.919229,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 268,
+        "tempo": 181.755215,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 269,
+        "tempo": 182.733106,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 270,
+        "tempo": 183.385827,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 271,
+        "tempo": 183.663061,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 272,
+        "tempo": 184.082154,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 273,
+        "tempo": 184.549229,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 274,
+        "tempo": 185.430725,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 275,
+        "tempo": 186.403197,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 276,
+        "tempo": 187.10102,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 277,
+        "tempo": 187.424195,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 278,
+        "tempo": 187.656984,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 279,
+        "tempo": 188.076916,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 280,
+        "tempo": 188.964126,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 281,
+        "tempo": 189.427029,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 282,
+        "tempo": 189.89195,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 283,
+        "tempo": 190.682857,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 284,
+        "tempo": 191.145873,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 285,
+        "tempo": 191.659206,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 286,
+        "tempo": 192.591201,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 287,
+        "tempo": 193.102834,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 288,
+        "tempo": 193.755034,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 289,
+        "tempo": 194.358752,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 290,
+        "tempo": 194.73204,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 291,
+        "tempo": 195.240929,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 292,
+        "tempo": 196.122199,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 293,
+        "tempo": 196.494897,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 294,
+        "tempo": 197.009931,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 295,
+        "tempo": 197.797142,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 296,
+        "tempo": 198.215782,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 297,
+        "tempo": 198.727868,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 298,
+        "tempo": 199.75102,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 299,
+        "tempo": 200.682131,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 300,
+        "tempo": 201.61043,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 301,
+        "tempo": 202.170158,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 302,
+        "tempo": 202.867256,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 303,
+        "tempo": 203.893242,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 304,
+        "tempo": 204.450158,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 305,
+        "tempo": 205.099319,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 306,
+        "tempo": 205.984829,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 307,
+        "tempo": 207.377891,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 308,
+        "tempo": 207.564263,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 309,
+        "tempo": 207.794331,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 310,
+        "tempo": 208.261292,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 311,
+        "tempo": 208.677641,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 312,
+        "tempo": 209.144195,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 313,
+        "tempo": 209.608117,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 314,
+        "tempo": 210.587981,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 315,
+        "tempo": 211.425238,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 316,
+        "tempo": 212.310861,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 317,
+        "tempo": 213.102743,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 318,
+        "tempo": 214.638231,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 319,
+        "tempo": 214.870884,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 320,
+        "tempo": 215.101179,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 321,
+        "tempo": 215.474897,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 322,
+        "tempo": 215.847029,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 323,
+        "tempo": 216.359206,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 324,
+        "tempo": 216.778004,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 325,
+        "tempo": 217.615736,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 326,
+        "tempo": 218.59263,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 327,
+        "tempo": 219.474149,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 328,
+        "tempo": 220.261995,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 329,
+        "tempo": 220.635124,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 330,
+        "tempo": 221.146281,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 331,
+        "tempo": 222.126167,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 332,
+        "tempo": 223.009705,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 333,
+        "tempo": 223.520022,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 334,
+        "tempo": 223.937233,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 335,
+        "tempo": 224.819297,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 336,
+        "tempo": 225.749614,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 337,
+        "tempo": 226.539863,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 338,
+        "tempo": 227.143741,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 339,
+        "tempo": 227.837913,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 340,
+        "tempo": 228.489931,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 341,
+        "tempo": 229.372131,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 342,
+        "tempo": 230.30263,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 343,
+        "tempo": 231.137845,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 344,
+        "tempo": 232.945192,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 345,
+        "tempo": 233.872857,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 346,
+        "tempo": 234.661247,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 347,
+        "tempo": 235.078004,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 348,
+        "tempo": 235.635782,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 349,
+        "tempo": 236.008934,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 350,
+        "tempo": 236.427959,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 351,
+        "tempo": 237.313174,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 352,
+        "tempo": 237.780158,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 353,
+        "tempo": 238.248412,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 354,
+        "tempo": 239.085918,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 355,
+        "tempo": 240.018231,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 356,
+        "tempo": 240.809863,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 357,
+        "tempo": 241.182154,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 358,
+        "tempo": 241.693287,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 359,
+        "tempo": 242.670657,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 360,
+        "tempo": 243.644172,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 361,
+        "tempo": 243.971269,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 362,
+        "tempo": 244.435215,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 363,
+        "tempo": 244.854285,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 364,
+        "tempo": 245.363877,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 365,
+        "tempo": 246.293945,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 366,
+        "tempo": 246.71077,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 367,
+        "tempo": 247.176167,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 368,
+        "tempo": 248.058548,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 369,
+        "tempo": 248.521201,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 370,
+        "tempo": 248.985986,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 371,
+        "tempo": 249.870204,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 372,
+        "tempo": 250.336326,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 373,
+        "tempo": 250.892743,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 374,
+        "tempo": 251.637823,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 375,
+        "tempo": 252.103854,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 376,
+        "tempo": 252.660226,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 377,
+        "tempo": 253.49882,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 378,
+        "tempo": 253.916122,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 379,
+        "tempo": 254.379637,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 380,
+        "tempo": 255.301247,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 381,
+        "tempo": 256.18526,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 382,
+        "tempo": 257.113287,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 383,
+        "tempo": 257.950226,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 384,
+        "tempo": 258.876235,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 385,
+        "tempo": 259.803219,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 386,
+        "tempo": 260.687482,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 387,
+        "tempo": 261.568163,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 388,
+        "tempo": 262.312244,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 389,
+        "tempo": 262.6378,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 390,
+        "tempo": 262.919342,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 391,
+        "tempo": 263.382176,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 392,
+        "tempo": 263.799841,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 393,
+        "tempo": 264.307823,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 394,
+        "tempo": 265.14204,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 395,
+        "tempo": 265.704852,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 396,
+        "tempo": 265.983174,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 397,
+        "tempo": 266.401201,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 398,
+        "tempo": 267.000997,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 399,
+        "tempo": 268.762267,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 400,
+        "tempo": 269.087437,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 401,
+        "tempo": 269.504104,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 402,
+        "tempo": 269.967709,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 403,
+        "tempo": 270.524671,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 404,
+        "tempo": 271.362517,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 405,
+        "tempo": 272.294943,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 406,
+        "tempo": 273.082902,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 407,
+        "tempo": 273.362154,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 408,
+        "tempo": 273.687301,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 409,
+        "tempo": 274.103945,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 410,
+        "tempo": 274.985283,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 411,
+        "tempo": 275.873174,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 412,
+        "tempo": 276.710317,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 413,
+        "tempo": 277.033106,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 414,
+        "tempo": 277.313061,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 415,
+        "tempo": 277.684195,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 416,
+        "tempo": 278.521133,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 417,
+        "tempo": 278.983401,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 418,
+        "tempo": 279.451292,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 419,
+        "tempo": 280.295238,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 420,
+        "tempo": 280.759909,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 421,
+        "tempo": 281.224308,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 422,
+        "tempo": 282.111201,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 423,
+        "tempo": 282.578299,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 424,
+        "tempo": 283.085782,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 425,
+        "tempo": 283.879546,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 426,
+        "tempo": 284.341609,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 427,
+        "tempo": 284.806009,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 428,
+        "tempo": 285.643446,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 429,
+        "tempo": 286.344716,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 430,
+        "tempo": 286.717324,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 431,
+        "tempo": 287.507188,
+        "linha": 2,
+        "tipo": 1
+    },
+    {
+        "name": 432,
+        "tempo": 287.878276,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 433,
+        "tempo": 288.388276,
+        "linha": 4,
+        "tipo": 1
+    },
+    {
+        "name": 434,
+        "tempo": 289.323242,
+        "linha": 3,
+        "tipo": 1
+    },
+    {
+        "name": 435,
+        "tempo": 290.205238,
+        "linha": 1,
+        "tipo": 1
+    },
+    {
+        "name": 436,
+        "tempo": 291.09195,
+        "linha": 4,
+        "tipo": 1
+    }
+]
