@@ -1,0 +1,46 @@
+<header>
+</header>
+<script>
+    audioSource = document.getElementById("audioSource")
+    list = document.getElementById("list")
+    timestampList = []
+
+    function handleTimestamps() {
+        if (!audioSource) {
+            audioSource = document.getElementById("audioSource")
+        }
+
+        const currentTime = audioSource.currentTime
+        timestampList.push(+currentTime)
+        renderTimestampList()
+    }
+
+    function renderTimestampList() {
+        if (!list) {
+            list = document.getElementById("list")
+        }
+        list.innerHTML = ""
+
+        timestampList.forEach(timestamp => {
+            list.appendChild(document.createTextNode(timestamp))
+            list.appendChild(document.createElement("br"))
+        });
+    }
+
+    function exportTime() {
+
+    }
+</script>
+
+<body>
+    <div>
+        <audio id="audioSource" controls autoplay>
+            <source src="Fantasy+Motion+(loop+ready)+-+320bit.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+    <button onclick="handleTimestamps()">AddTimestamp</button>
+    <button onclick="exportTime()">AddTimestamp</button>
+
+    <div id="list">
+    </div>
+</body>
